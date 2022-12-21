@@ -4,8 +4,8 @@ library(datasets) # this library contains the dataset we will be working with th
 library(here) # package to help us navigate more freely in the directories to get files
 library(tidyr) # tidyr and dplyr are packages used to data wrangle
 library(dplyr)
-library(ggplot2) # creates beautiful plots
-library(GGally) # for correlation plots
+library(ggplot2) # creates beautiful plot.
+library(GGally) # for correlation plots,
 library(car)
 
 #setwd(C:\R projects\exercise1)
